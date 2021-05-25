@@ -2,9 +2,9 @@ package digital.innovation.one.utils.internal;
 
 
 
-public class SumHelper implements Operacao {
+public class DivHelper implements Operacao {
     @Override
     public int execute(int a, int b) {
-        return a + b;
+        return a / b;
     }
 }
