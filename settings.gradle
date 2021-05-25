@@ -1,0 +1,3 @@
+rootProject.name = 'javamodular'
+include 'digital.innovation.one'
+
